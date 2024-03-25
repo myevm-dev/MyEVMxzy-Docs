@@ -99,6 +99,3 @@ Participants are urged to engage with RainETH tokens with a full understanding o
 * rainETH Initiative Collective erc721 NFT contract on base: https://basescan.org/address/0x0f9f35a8203b0d3c643d0ee76159557b849d9ff8
 * rainETH Initiative Prime erc721 NFT contract on base: https://basescan.org/address/0x58129a95d14a484322745a9419edaa4a7cc4e08f
 * rainETH Initiative VIP erc721 NFT contract on base: https://basescan.org/address/0xc3f11080ce2a5a37801c2fa39eda00478fcdd568
-* rainETH Initiative Collective erc721 NFT contract on Opensea:
-* rainETH Initiative Prime erc721 NFT contract on Opensea:
-* rainETH Initiative VIP erc721 NFT contract on Opensea:
