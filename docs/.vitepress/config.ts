@@ -10,6 +10,7 @@ export default defineConfig({
     nav: [
       { text: 'About', link: '/about' },
       { text: 'rainETH', link: '/raineth' },
+      { text: 'Splash', link: 'https://splash.wtf' },
 
       // {
       //   text: 'Menu',
@@ -28,6 +29,8 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Getting Started', link: '/gettingstarted' },
+          { text: 'Splash', link: '/splash' },
+          { text: 'rainETH', link: '/rainETH' },
           // ...
         ],
       },

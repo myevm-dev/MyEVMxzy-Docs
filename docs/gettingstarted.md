@@ -2,6 +2,7 @@
   - [Coming Soon](#coming-soon)
 - [About](#about)
   - [Coming Soon](#coming-soon-1)
+- [Splash](#splash)
 - [RainETH](#raineth)
   - [Executive Summary](#executive-summary)
   - [Introduction](#introduction)
@@ -14,3 +15,5 @@
   - [Disclaimer](#disclaimer)
   - [Deployed-Contracts](#deployed-contracts)
   - [Links](#links)
+- [Splash](#splash)
+

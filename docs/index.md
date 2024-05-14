@@ -7,7 +7,7 @@ hero:
   tagline: Our platforms are built to be user friendly, flexable, powerful, and permissionless.
   actions:
     - theme: brand
-      text: MYEVM CASA
+      text: MYEVM CASA SOON
       link: https://MYEVM.CASA
     - theme: alt
       text: View on GitHub

@@ -1,6 +1,6 @@
 # Coming Soon
 
-Come back for updates, building is nonstop!
+Come back for updates!
 
 ## Powered by Ethereum
 
