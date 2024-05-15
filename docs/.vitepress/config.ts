@@ -31,6 +31,7 @@ export default defineConfig({
         items: [
           { text: 'Getting Started', link: '/gettingstarted' },
           { text: 'Splash', link: '/splash' },
+          { text: 'Ptbook', link: '/ptbook' },
           { text: 'rainETH', link: '/rainETH' },
           // ...
         ],
