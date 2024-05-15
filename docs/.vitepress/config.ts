@@ -9,8 +9,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'About', link: '/about' },
-      { text: 'rainETH', link: '/raineth' },
+      { text: 'rainETH', link: 'https://rooms.party.app/' },
       { text: 'Splash', link: 'https://splash.wtf' },
+      { text: 'PTBook', link: 'https://ptbook.xyz' },
 
       // {
       //   text: 'Menu',
