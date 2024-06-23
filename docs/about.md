@@ -1,6 +1,3 @@
-# Coming Soon
-
-Come back for updates!
 
 ## Powered by Ethereum
 
@@ -11,4 +8,8 @@ Come back for updates!
 ## Welcome Home
 
 MYEVM is your new WEB3 Home.
+
+# Coming Soon
+
+Come back for updates!
 

@@ -1,39 +1,39 @@
 import { defineConfig } from 'vitepress';
 
-// refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'en-US',
   title: 'My EVM',
   description: 'Welcome to your Web3 home.',
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
+  cleanUrls: true,
 
   themeConfig: {
     nav: [
       { text: 'About', link: '/about' },
+      { text: 'Casa', link: '/casa' },
+      { text: 'Pro', link: '/pro' },
+      { text: 'Win', link: '/win' },
+      { text: 'Vip', link: '/vip' },
+      { text: 'Art', link: '/art' },
+      { text: 'Start', link: '/start' },
+      { text: 'Games', link: '/games' },
       { text: 'rainETH', link: '/raineth' },
-      { text: 'Splash', link: 'https://splash.wtf' },
-      { text: 'PTBook', link: 'https://ptbook.xyz' },
-
-      // {
-      //   text: 'Menu',
-      //   items: [
-      //     { text: 'About', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
     ],
 
     sidebar: [
       {
-        // text: 'Guide',
         items: [
           { text: 'Getting Started', link: '/gettingstarted' },
-          { text: 'Splash', link: '/splash' },
-          { text: 'Ptbook', link: '/ptbook' },
-          { text: 'rainETH', link: '/rainETH' },
-          // ...
+          { text: 'Casa', link: '/casa' },
+          { text: 'Pro', link: '/pro' },
+          { text: 'Win', link: '/win' },
+          { text: 'Vip', link: '/vip' },
+          { text: 'Art', link: '/art' },
+          { text: 'Start', link: '/start' },
+          { text: 'Games', link: '/games' },
+          { text: 'rainETH', link: '/raineth' },
         ],
       },
     ],

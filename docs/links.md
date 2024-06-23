@@ -2,7 +2,7 @@
 
 myevm.org :about us
 myevm.xyz :project site
-myevm.vercel.app :alternate for myevm.xyz
+myevm.casa :dapp store
 
 ##Contact
 x.com/L7cubed

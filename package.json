@@ -6,8 +6,10 @@
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
   },
-  
   "devDependencies": {
     "vitepress": "latest"
+  },
+  "dependencies": {
+    "three": "^0.165.0"
   }
 }
