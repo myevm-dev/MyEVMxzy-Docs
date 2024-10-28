@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: My EVM
-  text: Welcome to Your WEB 3 Home.
+  text: Welcome to Your WEB3 Home.
   tagline: Our platforms are built to be user friendly, flexable, powerful, and permissionless.
   actions:
     - theme: brand
