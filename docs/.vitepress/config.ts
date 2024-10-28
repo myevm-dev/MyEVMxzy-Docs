@@ -15,11 +15,6 @@ export default defineConfig({
       { text: 'Casa', link: '/casa' },
       { text: 'Pro', link: '/pro' },
       { text: 'Win', link: '/win' },
-      { text: 'Vip', link: '/vip' },
-      { text: 'Art', link: '/art' },
-      { text: 'Start', link: '/start' },
-      { text: 'Games', link: '/games' },
-      { text: 'rainETH', link: '/raineth' },
     ],
 
     sidebar: [
@@ -29,11 +24,6 @@ export default defineConfig({
           { text: 'Casa', link: '/casa' },
           { text: 'Pro', link: '/pro' },
           { text: 'Win', link: '/win' },
-          { text: 'Vip', link: '/vip' },
-          { text: 'Art', link: '/art' },
-          { text: 'Start', link: '/start' },
-          { text: 'Games', link: '/games' },
-          { text: 'rainETH', link: '/raineth' },
         ],
       },
     ],
